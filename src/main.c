@@ -1,7 +1,7 @@
 /*  PROJETO DE PPP
 
-    Diogo Nuno Fonseca Rodrigues - 2022257625
-    Maria Antónia Pereira Ferraz - 2023217813
+    Diogo Rodrigues
+    Maria Ferraz
 
 */
 
